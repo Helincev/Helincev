@@ -1,8 +1,6 @@
-👋 Merhaba, Ben @Helincev (Helin Çevik) Şuan da ReactFrotend'e odaklanıyorum ve modern web uygulamaları oluşturma becerilerimi geliştirmek için çalışıyorum.Hedeflerim, yenilikçi ve kullanıcı dostu çözümler oluşturmak için gelişmiş teknolojilerden yararlanmak,Kendi projelerimi geliştirip açık kaynak topluluğuna katkıda bulunmak,yapay zeka alanında daha derinlemesine bilgi sahibi olmak. Sektörün en iyi uygulamalarından öğrenmek ve etkili yazılım projelerine katkıda bulunmak için istekliyim.Projeleri tartışmak veya iş birliği fırsatlarını keşfetmekle ilgileniyorsanız, bağlantı kurmaktan mutluluk duyarım!
-👀 I’m interested in HTML | CSS
-🌱 I’m currently learning : FrontEnd | BackEnd | React | React Native | Mobile | Node.js | MernStack |
-📫 How to reach me : helincev@gmail.com
-🛠 Technologies and Tools I Us :
+👋 Hallo, ich bin @Helincev (Helin Çevik) Ich konzentriere mich derzeit auf ReactFrotend und arbeite daran, meine Fähigkeiten bei der Entwicklung moderner Webanwendungen zu verbessern. Meine Ziele sind die Nutzung fortschrittlicher Technologien zur Erstellung innovativer und benutzerfreundlicher Lösungen, die Entwicklung eigener Projekte und Beiträge zur Open-Source-Community sowie die Vertiefung meiner Kenntnisse im Bereich der künstlichen Intelligenz. Ich bin begierig, von den besten Praktiken der Branche zu lernen und zu effektiven Softwareprojekten beizutragen. Wenn Sie daran interessiert sind, Projekte zu besprechen oder Möglichkeiten der Zusammenarbeit zu erkunden, würde ich mich freuen, mit Ihnen in Kontakt zu treten! 👀 Ich interessiere mich für HTML | CSS 🌱 Ich lerne derzeit : FrontEnd | BackEnd | React | React Native | Mobile | Node.js | MernStack | 📫 Wie Sie mich erreichen können : helincev@gmail.com 🛠 Technologien und Tools, die ich verwende :
+
+Übersetzt mit DeepL.com (kostenlose Version)
 
 <!---
 Helincev/Helincev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
